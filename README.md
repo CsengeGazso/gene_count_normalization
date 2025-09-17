@@ -6,5 +6,5 @@ R script for gene count normalization (RPKM, TPM) and density plots from feature
   - **RPKM (Reads Per Kilobase Million)**
   - **TPM (Transcripts Per Million)**
 - Generates **density plots** (before and after normalization)
-- Saves normalized matrices as CSV
-- Saves plots in a single PDF file
+- Saves normalized matrices as **CSV**
+- Saves plots in a **PDF** file
